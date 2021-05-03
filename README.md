@@ -8,6 +8,15 @@ It is a simple React Native application to showcase the usage of [react-native-s
 * Play a Sound
 * Adjust the System Volume
 
+## Screenshots
+<div align="center">
+   <img src="/screenshots/toast.jpeg" width="200px"</img>
+   <span/>
+   <img src="/screenshots/sound.jpeg" width="200px"</img>
+   <span/>
+   <img src="/screenshots/file.jpeg" width="200px"</img>
+</div>
+
 ## Author
 
 jishil.kp
